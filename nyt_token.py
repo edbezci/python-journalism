@@ -1,2 +1,2 @@
-key = 'uznhJsCSPEeqRy5EdAGAR6cwJJLYTyEj'
-secret = 'MMqXk3OIWA354jN7'
+key = 'Enter Your Key Here'
+secret = 'Enter Your Secret Key Here'
