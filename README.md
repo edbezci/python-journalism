@@ -6,7 +6,7 @@ __This workshop introduces a hands-on experience in Python for data collection, 
 
 
 
-<p align="center"> ### You can watch the full lecture  ### </p>
+<p align="center"> You can watch the full lecture below </p>
 
 <p align= "center"> <a href="http://www.youtube.com/watch?feature=player_embedded&v=u2lb25U2S1Q
 " target="_blank"><img src="http://img.youtube.com/vi/u2lb25U2S1Q/0.jpg" 
